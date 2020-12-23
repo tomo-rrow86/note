@@ -24,4 +24,5 @@ Logged in as 上記メールアドレスがココに表示されます
 
 $ heroku create 任意のアプリ名（大文字・_(アンダーバー)はNG）
 
+Creating ⬢ youtube-curation-[任意の名前]... done https://youtube-curation-[任意の名前].herokuapp.com/ | https://git.heroku.com/youtube-curation-[任意の名前] .git  アプリ名と同時に、Gitにリモートリポジトリとして「heroku」のリポジトリが作られる 
 
